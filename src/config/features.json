@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Encrypted",
+        "description":"Your data is Encrypted and stored in a secure database."
+    },
+    {
+        "title": "Open source",
+        "description":"This code is open source."
+    }
+    ,
+    {
+        "title": "Free",
+        "description":"100% Free."
+    }
+    ,
+    {
+        "title": "Secure",
+        "description":"Very Secure."
+    }
+    ,
+    {
+        "title": "Cross-platform",
+        "description":"All platforms."
+    }
+    ,
+    {
+        "title": "Legal",
+        "description":"Very Legal."
+    }
+
+]
